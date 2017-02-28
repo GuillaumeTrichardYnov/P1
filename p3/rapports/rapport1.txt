@@ -1,0 +1,7 @@
+Installation de la librairie OpenCv
+
+fait : 
+	J'ai posé une question sur stackOverflow resté sans réponses...
+	suite a de multiples problèmes avec l'installation de OpenCv j'ai enfin réussi a faire fonctionner celle-ci
+
+A faire : réaliser des tests avec les différentes fonction de opencv  

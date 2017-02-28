@@ -1,0 +1,7 @@
+Premiers test 
+
+fait : 
+	réalisation de quelques tests avec opencv (sift et BF_Matcher)
+
+a faire : 
+	continuer les tests avec plus d'images et trouver un algo performant  
