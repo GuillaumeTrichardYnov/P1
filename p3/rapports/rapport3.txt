@@ -1,0 +1,5 @@
+fiabilisation des tests
+Fait :
+	J'arrive a reconnaitre une marque de voiture si la photo analysé est pas trop compliqué 
+A faire : 
+	Je vais maintenant réaliser des tests de fiabilisation de ma méthodes (plus d'images, modification d'images, autres fonctions d'openCV)	
