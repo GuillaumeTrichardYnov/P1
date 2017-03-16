@@ -1,0 +1,10 @@
+Note : 
+	entre 12/20 et et 14/20
+Explication :
+	Je pense avoir réussi à comprendre les bases de la comparaison d'images liées
+au machine learning. J'ai exploré plusieurs pistes pour trouver celles qui me 
+paraissait les plus pertinantes. Mon programme est fonctionnel et arrive dans plus 
+de un cas sur deux à donner la bonne marque de la voiture.
+	Cependant j'aurais pu aller plus loins en réalisant un réseaux de neurones
+qui serait une solution vraiment plus fiable est plus rapide car le programme 
+n'apprend que une seule fois de son dataset et non a chaque comparaison.
